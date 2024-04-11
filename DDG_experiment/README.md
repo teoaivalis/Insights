@@ -18,10 +18,6 @@ Data, image_list and prompts csv files contains all the information for the Midj
             <span class="file-name">create_api_calls.py</span>
    </li>
    <li>
-            <span class="file-icon">&#128196;</span>
-            <span class="file-name">create_api_calls.py</span>
-   </li>
-        <li>
             <span class="folder-icon">&#128193;</span>
             <span class="folder-name">data</span>
             <ul>

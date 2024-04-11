@@ -17,9 +17,7 @@ The fashion dataset we used can be downloaded from this [Kaggle link](https://ww
 
 **outputs:** There will be saved all the generations you will make.
 
-**fashion_16_12_30ep.pt:** Is the model we trained to generate fashion items.
-
-(The model can be found in the following link: [Model](https://drive.google.com/file/d/1oSba1p-RaztskZ845oXWFUGJfuOe0IJI/view?usp=drive_link))
+**fashion_16_12_30ep.pt:** Is the model we trained to generate fashion items.  [Model](https://drive.google.com/file/d/1oSba1p-RaztskZ845oXWFUGJfuOe0IJI/view?usp=drive_link))
 
 *(For more information contact : teoaivalis@iit.demokritos.gr )*
 

@@ -8,37 +8,6 @@ In order to train and use a local model for our generations we used the [Dalle-p
 
 # Struct of the Code
 
-<style>
-/* Styles for folder icons */
-.folder-icon {
-    color: #007bff; /* Blue color for folder icons */
-    font-size: 24px; /* Adjust size as needed */
-    margin-right: 8px; /* Add space between icon and text */
-}
-
-/* Styles for file icons */
-.file-icon {
-    color: #28a745; /* Green color for file icons */
-    font-size: 20px; /* Adjust size as needed */
-    margin-right: 8px; /* Add space between icon and text */
-}
-
-/* Styles for folder names */
-.folder-name {
-    font-weight: bold; /* Make folder names bold */
-}
-
-/* Styles for file names */
-.file-name {
-    /* No specific styles for file names */
-}
-
-/* Styles for comments */
-.file-comment {
-    font-style: italic; /* Make comments italic */
-    color: #6c757d; /* Gray color for comments */
-}
-</style>
 
 <!-- Folder structure -->
 <ul>

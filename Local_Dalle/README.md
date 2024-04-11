@@ -10,14 +10,25 @@ epochs: 30, batch_size: 5, learning_rate: 4.5e-4, depth: 16, heads: 12, head_dim
 For our trainings we used 2 GPUs ...
  
 The fashion dataset we used can be downloaded from this [Kaggle link](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)
+
 **common_words.txt:** Is a list with the most commonly found words in the descriptions. They were found using  **find_common_words.py**
+
 **examples:** Contains folders with some of the local generations.
+
 **outputs:** There will be saved all the generations you will make.
+
 **fashion_16_12_30ep.pt:** Is the model we trained to generate fashion items.
-*(To access the model contact : teoaivalis@iit.demokritos.gr )*
+
+(The model can be found in the following link: [Model](https://drive.google.com/file/d/1oSba1p-RaztskZ845oXWFUGJfuOe0IJI/view?usp=drive_link))
+
+*(For more information contact : teoaivalis@iit.demokritos.gr )*
+
 **train_dalle.py:** Is the file you use to train your own model.
+
 **generate.py:** Is the file you use to generate images with your own prompts.
+
 **config.yaml:** Configuration file to train dalle-pytorch.
+
 **config1.yaml:** Configuration file to retrain dalle-pytorch for unlearning.
 
 

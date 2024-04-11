@@ -33,7 +33,7 @@ The fashion dataset we used can be downloaded from this [Kaggle link](https://ww
                 <span class="folder-name">images</span>
                 <ul>
                     <li><span class="file-icon">&#128196;</span>
-                        <span class="file-name">fashion_items.zip</span> <!-- Fashion dataset -->
+                        <span class="file-name">fashion_items</span>  //Here will be the dataset
                     </li>
                     <li><span class="file-icon">&#128196;</span>
                         <span class="file-name">decrease_txt_files.py</span> <!-- Keep only certain lines of the descriptions training files -->

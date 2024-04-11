@@ -18,46 +18,37 @@ To evaluate the success of the Unlearning we tried to compare the images before 
  The results (metrics) for the unlearning procedure with some of the images generated are placed in ./results
  
 # Struct of the Code
+<style>
+/* Styles for folder icons */
+.folder-icon {
+    color: #007bff; /* Blue color for folder icons */
+    font-size: 24px; /* Adjust size as needed */
+    margin-right: 8px; /* Add space between icon and text */
+}
 
+/* Styles for file icons */
+.file-icon {
+    color: #28a745; /* Green color for file icons */
+    font-size: 20px; /* Adjust size as needed */
+    margin-right: 8px; /* Add space between icon and text */
+}
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Folder Structure</title>
-    <style>
-        /* Styles for folder icons */
-        .folder-icon {
-            color: #007bff; /* Blue color for folder icons */
-            font-size: 24px; /* Adjust size as needed */
-            margin-right: 8px; /* Add space between icon and text */
-        }
+/* Styles for folder names */
+.folder-name {
+    font-weight: bold; /* Make folder names bold */
+}
 
-        /* Styles for file icons */
-        .file-icon {
-            color: #28a745; /* Green color for file icons */
-            font-size: 20px; /* Adjust size as needed */
-            margin-right: 8px; /* Add space between icon and text */
-        }
+/* Styles for file names */
+.file-name {
+    /* No specific styles for file names */
+}
 
-        /* Styles for folder names */
-        .folder-name {
-            font-weight: bold; /* Make folder names bold */
-        }
-
-        /* Styles for file names */
-        .file-name {
-            /* No specific styles for file names */
-        }
-
-        /* Styles for comments */
-        .file-comment {
-            font-style: italic; /* Make comments italic */
-            color: #6c757d; /* Gray color for comments */
-        }
-    </style>
-</head>
+/* Styles for comments */
+.file-comment {
+    font-style: italic; /* Make comments italic */
+    color: #6c757d; /* Gray color for comments */
+}
+</style>
 <body>
     <ul>
         <li>
@@ -112,5 +103,4 @@ To evaluate the success of the Unlearning we tried to compare the images before 
         </li>
     </ul>
 </body>
-</html>
 

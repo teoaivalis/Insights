@@ -7,57 +7,35 @@ Data, image_list and prompts csv files contains all the information for the Midj
 
 # Struct of the Code
 
-
-
 <body>
     <ul>
+    <li>
+            <span class="file-icon">&#128196;</span>
+            <span class="file-name">api_calls.sh</span>
+    </li>
+    <li>
+            <span class="file-icon">&#128196;</span>
+            <span class="file-name">create_api_calls.py</span>
+   </li>
+   <li>
+            <span class="file-icon">&#128196;</span>
+            <span class="file-name">create_api_calls.py</span>
+   </li>
         <li>
             <span class="folder-icon">&#128193;</span>
-            <span class="folder-name">Unlearning</span>
+            <span class="folder-name">data</span>
             <ul>
                 <li>
                     <span class="file-icon">&#128196;</span>
-                    <span class="file-name">main_experiment.py</span>
+                    <span class="file-name">data.csv</span>
                 </li>
                 <li>
                     <span class="file-icon">&#128196;</span>
-                    <span class="file-name">raw_image_similarity.py</span>
+                    <span class="file-name">image_list.csv</span>
                 </li>
                 <li>
                     <span class="file-icon">&#128196;</span>
-                    <span class="file-name">compare_embeddings.py</span>
-                </li>
-                <li>
-                    <span class="file-icon">&#128196;</span>
-                    <span class="file-name">create_ranking.py</span>
-                </li>
-                <li>
-                    <span class="file-icon">&#128196;</span>
-                    <span class="file-name">remove_from_dataset.py</span>
-                </li>
-                <li>
-                    <span class="file-icon">&#128196;</span>
-                    <span class="file-name">regenerate_images.py</span>
-                </li>
-                <li>
-                    <span class="file-icon">&#128196;</span>
-                    <span class="file-name">script1.sh</span>
-                </li>
-                  <li>
-                    <span class="folder-icon">&#128193;</span>
-                    <span class="file-name">descriptions</span>
-                </li>
-                <li>
-                    <span class="folder-icon">&#128193;</span>
-                    <span class="file-name">results</span>
-                </li>
-                 <li>
-                    <span class="folder-icon">&#128193;</span>
-                    <span class="file-name">metrics from unlearning</span>
-                </li>
-                 <li>
-                    <span class="folder-icon">&#128193;</span>
-                    <span class="file-name">Experiment 1</span>
+                    <span class="file-name">prompts.csv</span>
                 </li>
             </ul>
         </li>

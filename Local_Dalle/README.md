@@ -19,6 +19,11 @@ The fashion dataset we used can be downloaded from this [Kaggle link](https://ww
 
 **fashion_16_12_30ep.pt:** Is the model we trained to generate fashion items.  [Model](https://drive.google.com/file/d/1oSba1p-RaztskZ845oXWFUGJfuOe0IJI/view?usp=drive_link))
 
+To generate a set of images run the following:
+```
+$ python3 generate.py --dalle_path ./fashion_16_12_30ep.pt --text 'Ray-Ban Adults-Men Metallic Fashion Winter 2016 Casual Sunglasses'
+```
+
 *(For more information contact : teoaivalis@iit.demokritos.gr )*
 
 **train_dalle.py:** Is the file you use to train your own model.

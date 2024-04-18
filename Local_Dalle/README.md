@@ -89,3 +89,6 @@ $ python3 generate.py --dalle_path ./fashion_16_12_30ep.pt --text 'Ray-Ban Adult
         </ul>
     </li>
     </ul>
+
+Some of our generations in our local model can be seen in the following figure.
+![LOcal Generations](local_generations_examples.png)

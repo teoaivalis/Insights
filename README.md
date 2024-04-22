@@ -1,6 +1,11 @@
-# Insights from the Dataset
-**Abstract:** Generative AI models are experiencing rapid development across various aspects of people's life. However, there are significant ethical and social concerns. These oppositions primarily arise from artists and content creators whose works is used for training these AI models. These concerns arise from the black-box nature of these models, characterized by their large number of parameters and complexity, making it challenging to understand how they operate and the potential impacts of their outputs.
-Our paper approaches these concerns by introducing a method capable of extracting influential subsets from the training dataset. Our methodology focuses on enhancing the Interpretability of generative models by analyzing connections between training data and model's outputs. 
+# Enhancing Interpretability in Generative AI Through Search-Based Data Influence Analysis
+**Abstract:** Generative Artificial Intelligence (AI) models have emerged as powerful tools across diverse applications. Their inherent complexity often makes them opaque, which in turn complicates understanding their decision-making processes. In response to this challenge, we present a novel approach trying to enhance the interpretability of generative AI models by analysing the influence of training data on model's outputs. Our method offers observational interpretability, meaning that it allows for understanding by observing the outputs of a model. It is inspired by information retrieval methods, aimed at locating the most similar input items to the generated output.
+
+Subsequently, we utilise a range of  similarity metrics based on both raw as well as latent-space  embeddings  using a pre-trained network.
+We evaluate the effectiveness of our method by retraining local models, demonstrating its ability to uncover influential subsets within the training dataset. Furthermore, this work lays the groundwork for future extensions and analyses, including user-based evaluations with domain experts such as artists and photographers. Validating the importance of the retrieved training samples in generated specific content more accurately, will contribute to improved observational interpretability.
+
+**Keywords:** Interpretability, Observational interpretability, Generative AI models, AI Act, Image generation, Information retrieval methods, Training data analysis, Unlearning, Similarity metrics.
+
 
 Our Proposed Method can be depicted in the following figure.
 ![Proposed Method](proposed_method.png)

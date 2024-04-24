@@ -3,13 +3,13 @@
 
 More information about the local model can be found in the following link:[Dalle-pytorch](https://github.com/lucidrains/DALLE-pytorch#install)
 
-The archotecture of the local model can be visualised in the following figure:
-![Local Model](local_dalle.png)
-
-
 ```python
 $ pip install dalle-pytorch
 ```
+
+The architecture of the local model can be visualised in the following figure:
+![Local Model](local_dalle.png)
+
 We trained the model using a dataset with fashion items. We trained it with the following parameters:
 epochs: 30, batch_size: 5, learning_rate: 4.5e-4, depth: 16, heads: 12, head_dimension: 64.
 For our trainings we used 2 GPUs ...

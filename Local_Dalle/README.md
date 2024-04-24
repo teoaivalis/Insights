@@ -1,7 +1,12 @@
 # Local Model
 ## Install
 
-[](https://github.com/lucidrains/DALLE-pytorch#install)
+More information about the local model can be found in the following link:[Dalle-pytorch](https://github.com/lucidrains/DALLE-pytorch#install)
+
+The archotecture of the local model can be visualised in the following figure:
+![Local Model](local_dalle.png)
+
+
 ```python
 $ pip install dalle-pytorch
 ```

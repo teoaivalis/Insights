@@ -8,7 +8,7 @@ Our experiments can be depicted in the following figure.
 To run the DDG experiment first you have to create the API calls and save the downladed images in a proper way so as to enable comparisons with the generated image. You have to run **create_api_calls.py**. This will create **api_calls.sh** bash script which has to be excecuded and then run. 
 Data, image_list and prompts csv files contains all the information for the Midjourney dataset.
 
-Some of the Examples of the DuckDuckGo experiments can be found in the following link:
+Some Examples of the DuckDuckGo experiments can be found in the following link:
 [DDG_Experiments](https://drive.google.com/drive/folders/1K8A2fboCaXfwZyLH1Iu7LVgQy0hPnuzM?usp=sharing)
 
 # Struct of the Code

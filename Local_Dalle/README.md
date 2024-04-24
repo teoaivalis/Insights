@@ -39,6 +39,8 @@ $ python3 generate.py --dalle_path ./fashion_16_12_30ep.pt --text 'Ray-Ban Adult
 
 **config1.yaml:** Configuration file to retrain dalle-pytorch for unlearning.
 
+Some of our generations in our local model can be seen in the following figure.
+![LOcal Generations](local_generations_examples.png)
 
 # Struct of the Code
 <!-- Folder structure -->
@@ -94,6 +96,3 @@ $ python3 generate.py --dalle_path ./fashion_16_12_30ep.pt --text 'Ray-Ban Adult
         </ul>
     </li>
     </ul>
-
-Some of our generations in our local model can be seen in the following figure.
-![LOcal Generations](local_generations_examples.png)

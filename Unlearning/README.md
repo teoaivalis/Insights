@@ -23,7 +23,7 @@ To evaluate the success of the Unlearning we tried to compare the images before 
 
 **compare_after_unlearning.py:** Compare the embeddings of the 2 sets of images (before and after unlearning) so as to extract the metrics.
  
-The results (metrics) for the unlearning procedure with some of the images generated are placed in ./results and can be seen in the following table:
+The results (metrics) for the unlearning procedure with some of the images generated are placed in ./metrics_after_unlearning and can be seen in the following table:
 ![Unlearning Results](results.png)
 
  
